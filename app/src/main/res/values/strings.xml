@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Chama</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tc">By continuing, you agree to accept our Privacy Policy &amp; Terms of Service</string>
 </resources>

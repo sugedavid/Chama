@@ -32,5 +32,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     implementation 'com.aurelhubert:ahbottomnavigation:2.1.0'
+    implementation 'br.com.simplepass:loading-button-android:2.2.0'
 
 }
